@@ -14,3 +14,4 @@ button.addEventListener("click", () => {
         button.classList.remove("animated");
     }, 300);
 });
+  
